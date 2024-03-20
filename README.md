@@ -12,7 +12,7 @@ Currently the most popular image recognition software such as Google Photos only
 
 An app that can classify images offline will surely be useful and especially if it can sort custom image classes that are very domain specific or uncommon (e.g. Telegram chats screenshots, school/work PowerPoint Slides screenshots, etc) on an end user's device. 
 
-However, sufficient images in the photo gallery of a particular class needs to be present to undergo training for some time and requires significant computational power from somewhere (local/cloud).  
+However, sufficient images in the photo gallery of a particular class needs to be present & labelled to undergo training for some time and requires significant computational power from somewhere (local/cloud).  
 
 *Refactoring my code for increased understanding for beginers or adding more comments may be done someday...
 
