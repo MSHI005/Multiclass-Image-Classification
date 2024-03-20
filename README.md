@@ -41,7 +41,9 @@ Results may not always be exactly reproducible.
 ![VGG16_Percentage](https://github.com/MSHI005/Multiclass-Image-Classification/assets/159223357/d706508e-8c2d-4cc3-8c69-06d6001d8679)
 
 # NOTICE
-The Juypter Notebook was executed and adapted to the Google Colab runtime environment before uploading.
+The Juypter Notebook was executed and adapted to the Google Colab runtime environment before uploading. 
+
+And for now, this project will mainly be further continued locally or in Google Colab per se without source control using Git and uploaded to Github. 
 
 The original image_dataset.zip was not backed up and cannot be recovered, but any small image dataset zipped file with the specified file directory structure can work as well.   
 
