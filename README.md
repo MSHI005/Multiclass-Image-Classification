@@ -14,6 +14,8 @@ An app that can classify images offline will surely be useful and especially if 
 
 However, sufficient images in the photo gallery of a particular class needs to be present to undergo training for some time and requires significant computational power from somewhere (local/cloud).  
 
+*Refactoring my code for increased understanding for beginers or adding more comments may be done someday...
+
 # Results
 The confusion matrices shows the number of correctly predicted image classes for a particular training iteration only. 
 
