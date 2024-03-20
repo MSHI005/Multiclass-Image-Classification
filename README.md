@@ -16,6 +16,21 @@ However, sufficient images in the photo gallery of a particular class needs to b
 
 *Refactoring my code for increased understanding for beginers or adding more comments may be done someday...
 
+# Models
+Custom simple CNN model 
+
+![CNN_visualkeras](https://github.com/MSHI005/Multiclass-Image-Classification/assets/159223357/4a1314f7-4417-4a56-84fd-36ffb2309a6b)
+
+
+
+Fine-tuned VGG16 Pretrained Model (Base Portion)
+
+![VGG16base_visualkeras](https://github.com/MSHI005/Multiclass-Image-Classification/assets/159223357/ccd3f2e6-1b93-4e01-a501-2b108231f1ce)
+
+Fine-tuned VGG16 Pretrained Model (Fine-tuned Portion)
+
+![VGG16finetuned_visualkeras](https://github.com/MSHI005/Multiclass-Image-Classification/assets/159223357/14c00c89-1f53-41a7-9b81-fe51304e1f15)
+
 # Results
 The confusion matrices shows the number of correctly predicted image classes for a particular training iteration only. 
 
