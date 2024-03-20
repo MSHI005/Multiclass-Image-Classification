@@ -10,13 +10,15 @@ Sort countless photo gallery pictures into niche/class(es) offline.
 
 Currently the most popular image recognition software such as Google Photos only allows sorting of images into broad categories (e.g. people, pets, buildings etc) in the cloud and hence you need to be online for it to work. 
 
-An app that can classify images offline will surely be useful and especially if it can sort custom image claasses that are very domain specific or uncommon (e.g. Telegram chats screenshots, school/work PowerPoint Slides screenshots, etc) on an end user's device. 
+An app that can classify images offline will surely be useful and especially if it can sort custom image classes that are very domain specific or uncommon (e.g. Telegram chats screenshots, school/work PowerPoint Slides screenshots, etc) on an end user's device. 
 
 However, sufficient images in the photo gallery of a particular class needs to be present to undergo training for some time and requires significant computational power from somewhere (local/cloud).  
 
 *Refactoring my code for increased understanding for beginers or adding more comments may be done someday...
 
 # Models
+The 3D visualizations from the visualkeras Python package provides a nice illustration of my machine learning models. 
+
 Custom simple CNN model 
 
 ![CNN_visualkeras](https://github.com/MSHI005/Multiclass-Image-Classification/assets/159223357/4a1314f7-4417-4a56-84fd-36ffb2309a6b)
